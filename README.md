@@ -1,2 +1,2 @@
-# gifmi_mricq.github.io
+# MRI_qc
 MRI Quality Control Methodologies
